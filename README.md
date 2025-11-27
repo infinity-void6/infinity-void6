@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vikraman Parthiban
 
 🎯 **About Me**  
-I'm a final-year Computer Science student (specialization in AI/ML) at SRMIST Chennai, passionate about building intelligent systems that bridge healthcare, AI, and data engineering.  
+I'm a Computer Science graduate (specialization in AI/ML). I did my undergrad at SRMIST Chennai. I am passionate about building intelligent systems that bridge healthcare, AI, and data engineering.  
 I enjoy working at the intersection of **machine learning**, **knowledge graphs**, and **computer vision**, especially applying AI to solve real-world challenges in healthcare and biomedical research.
 
 ---
@@ -9,6 +9,7 @@ I enjoy working at the intersection of **machine learning**, **knowledge graphs*
 # 🚀 Skills
 
 - **Programming Languages:** Python, JavaScript, C, SQL
+- **Robotics:** ROS, Gazebo, Isaac Sim
 - **AI/ML Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy
 - **Tools & Databases:** Git, GitHub, Neo4J, MongoDB, PostgreSQL, GraphQL, VSCode, Vim
 - **Special Focus:** Knowledge Graphs | Retrieval-Augmented Generation (RAG) | Self-Supervised Learning | Computer Vision
@@ -32,6 +33,7 @@ I enjoy working at the intersection of **machine learning**, **knowledge graphs*
 
 # 🎓 Experience
 
+**IIT Madras** —  *Research Associate*
 **IISER Bhopal** — *Research Intern* (May 2023 – July 2023)  
 - Built knowledge graphs for biomedical discovery and integrated LLMs with graph databases to enhance clinical data retrieval.
 
