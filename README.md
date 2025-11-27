@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vikraman Parthiban
 
 🎯 **About Me**  
-I'm a Computer Science graduate (specialization in AI/ML). I did my undergrad at SRMIST Chennai. I am passionate about building intelligent systems that bridge healthcare, AI, and data engineering.  
+I'm a Computer Science graduate currently working at IIT Madras as a Research Associate at the Haptics Lab. I did my undergrad at SRMIST Chennai. I am passionate about building intelligent systems that bridge healthcare, AI, and data engineering.  
 I enjoy working at the intersection of **machine learning**, **knowledge graphs**, and **computer vision**, especially applying AI to solve real-world challenges in healthcare and biomedical research.
 
 ---
